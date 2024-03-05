@@ -1,4 +1,4 @@
-<img align="left" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
+<img align="center" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
 ```javascript
 import Desenvolvedor from "JCaridade";
